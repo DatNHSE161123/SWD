@@ -46,7 +46,7 @@ const TableUser: React.FC<TableUserProps> = ({ listUser, currentPage, itemsPerPa
     //     { title: "Xem chi tiết tài khoản", src: (userId: string | null) => `/admin/user-detail-management/${userId}` },
     //     { title: "Xem trang cá nhân", src: (userId: string | null) => `/user/profile-user/${userId}` },
     // ]
-
+    //Quản lí user Đạt Khang
     return (
         <table className="table-auto border-separate border border-black border-opacity-10 rounded-lg text-sm sm:text-base md:text-lg text-gray-600 text-center table">
             <thead>

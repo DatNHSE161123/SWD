@@ -71,6 +71,6 @@ const ModalActiveStock = () => {
             </form>
         </CustomModal>
     )
-}
+} //Khang Kiên xử lí phần active kho hàng
 
 export default ModalActiveStock

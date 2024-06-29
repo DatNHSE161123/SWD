@@ -211,6 +211,6 @@ const DetailProductManagement = () => {
             )}
         </div>
     )
-}
+} //phần chi tiết sản phẩm Đạt Kiên code
 
 export default DetailProductManagement
